@@ -22,6 +22,13 @@ public void Cars() {
 	System.out.println("Bucatti");
 }	
 
+public void bikes() {
+	
+	System.out.println("Pulsar");
+	System.out.println("Ktm");
+	System.out.println("RE");
+}
+
 
 	
 }
