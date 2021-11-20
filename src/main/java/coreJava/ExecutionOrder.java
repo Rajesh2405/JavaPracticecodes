@@ -9,6 +9,9 @@ public class ExecutionOrder {
 	
 	public void Demo() {
 		System.out.println("Instance method");
+		System.out.println("code changes from version 3");
+		System.out.println("code changes from version 3");
+		
 	}
 	
 	public  ExecutionOrder() {
