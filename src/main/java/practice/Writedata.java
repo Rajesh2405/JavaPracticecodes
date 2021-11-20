@@ -13,6 +13,7 @@ public class Writedata {
 		FileWriter fw = new FileWriter(nf);
 		
 		fw.write("Hi how are you im file writer");
+		fw.write("May i help you to write something");
 		
 		fw.flush();
 		fw.close();
