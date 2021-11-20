@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="176" started-at="2021-10-24T13:07:18 IST" finished-at="2021-10-24T13:07:19 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="176" started-at="2021-10-24T13:07:18 IST" finished-at="2021-10-24T13:07:19 IST">
+      <class name="coreJava.Waystofindoccurenceofeachcharc">
+        <test-method status="PASS" signature="chararrayoccurence()[pri:0, instance:coreJava.Waystofindoccurenceofeachcharc@12f41634]" name="chararrayoccurence" duration-ms="26" started-at="2021-10-24T13:07:19 IST" finished-at="2021-10-24T13:07:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chararrayoccurence -->
+        <test-method status="PASS" signature="method1ForeachwithHashmap()[pri:0, instance:coreJava.Waystofindoccurenceofeachcharc@12f41634]" name="method1ForeachwithHashmap" duration-ms="3" started-at="2021-10-24T13:07:19 IST" finished-at="2021-10-24T13:07:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1ForeachwithHashmap -->
+        <test-method status="PASS" signature="method2forloopwithHashmap()[pri:0, instance:coreJava.Waystofindoccurenceofeachcharc@12f41634]" name="method2forloopwithHashmap" duration-ms="11" started-at="2021-10-24T13:07:19 IST" finished-at="2021-10-24T13:07:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2forloopwithHashmap -->
+      </class> <!-- coreJava.Waystofindoccurenceofeachcharc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
