@@ -13,6 +13,15 @@ public void phones() {
 	System.out.println("Samsung");
 }	
 
+@Test	
+public void Cars() {
+	
+	System.out.println("ferrari");
+	System.out.println("mustang");
+	System.out.println("Auston martin");
+	System.out.println("Bucatti");
+}	
+
 
 	
 }

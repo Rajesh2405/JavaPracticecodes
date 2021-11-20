@@ -18,6 +18,7 @@ public class Writedata {
 		fw.flush();
 		fw.close();
 		
+		System.out.println("writing done");
 	}
 
 }
