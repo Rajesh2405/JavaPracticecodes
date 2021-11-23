@@ -13,9 +13,13 @@ public class ArraytoString {
 		System.out.println(arrtostring);
 		
 		
-		StringBuilder sbr = new StringBuilder("Test Lead");
+		StringBuilder sbr = new StringBuilder("Software Test Lead");
 		
 		System.out.println(sbr.append(" Rajeshkumar"));
+		
+		double []dbarr	= {1,2,4,5};
+		
+		System.out.println(Arrays.toString(dbarr));
 		
 		
 	}
