@@ -13,6 +13,11 @@ public class ArraytoString {
 		System.out.println(arrtostring);
 		
 		
+		StringBuilder sbr = new StringBuilder("Test Lead");
+		
+		System.out.println(sbr.append(" Rajeshkumar"));
+		
+		
 	}
 
 }
