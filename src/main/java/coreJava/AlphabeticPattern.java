@@ -13,12 +13,11 @@ public class AlphabeticPattern {
 			for (int j = i; j <= n; j++) {
 				System.out.print(" ");
 			}
-
 			for (int j = 0; j <=i; j++) {
 
 				System.out.print((char) alpha + " ");
-
 			}
+			
 			alpha++;
 
 			System.out.println();
