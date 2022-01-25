@@ -10,7 +10,12 @@ import org.openqa.selenium.edge.EdgeDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Autosuggestdropdown {
+	
+	public void method2() {
+		
+		System.out.println("Gitpracticefromprojectversion2");
 
+	}
 	public static void main(String[] args) throws InterruptedException {
 
 		//WebDriverManager.chromedriver().setup();
