@@ -2,16 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="77" started-at="2021-11-20T18:53:26 IST" finished-at="2021-11-20T18:53:26 IST">
+  <suite name="Default suite" duration-ms="112" started-at="2022-01-25T17:00:18 IST" finished-at="2022-01-25T17:00:18 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="77" started-at="2021-11-20T18:53:26 IST" finished-at="2021-11-20T18:53:26 IST">
-      <class name="practice.Gitdemo">
-        <test-method status="PASS" signature="phones()[pri:0, instance:practice.Gitdemo@12f41634]" name="phones" duration-ms="10" started-at="2021-11-20T18:53:26 IST" finished-at="2021-11-20T18:53:26 IST">
+    <test name="Default test" duration-ms="112" started-at="2022-01-25T17:00:18 IST" finished-at="2022-01-25T17:00:18 IST">
+      <class name="practice.Annotations">
+        <test-method status="PASS" signature="test1()[pri:0, instance:practice.Annotations@1a3869f4]" name="test1" is-config="true" duration-ms="8" started-at="2022-01-25T17:00:18 IST" finished-at="2022-01-25T17:00:18 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- phones -->
-      </class> <!-- practice.Gitdemo -->
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:practice.Annotations@1a3869f4]" name="test3" duration-ms="8" started-at="2022-01-25T17:00:18 IST" finished-at="2022-01-25T17:00:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:practice.Annotations@1a3869f4]" name="test2" is-config="true" duration-ms="1" started-at="2022-01-25T17:00:18 IST" finished-at="2022-01-25T17:00:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- practice.Annotations -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
