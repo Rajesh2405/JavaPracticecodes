@@ -29,6 +29,10 @@ public void bikes() {
 	System.out.println("RE");
 }
 
+	 void test() {
+		 System.out.println("new test added");
+}
+
 
 	
 }
