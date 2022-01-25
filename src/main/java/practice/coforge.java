@@ -10,6 +10,13 @@ public class coforge {
 		 
 		 
 		 System.out.println(str);
+		 
+		 int num =1;
+		while (num<=100) {
+			System.out.println(num);
+			num++;
+		}
+		 
 	}
 
 }
